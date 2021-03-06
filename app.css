@@ -1,0 +1,27 @@
+body {
+  margin: 10px;
+  background-color: rgb(39, 99, 117);
+}
+img {
+  padding-top: 5px;
+  height: 150px;
+}
+button {
+  width: 100%;
+}
+div {
+  padding: 20px 5px 20px 5px;
+}
+p {
+  font-size: 60px;
+  font-weight: bold;
+  letter-spacing: 10px;
+  color: white;
+}
+.card-header {
+  font-weight: bold;
+  text-align: center;
+}
+.card-body {
+  text-align: center;
+}
